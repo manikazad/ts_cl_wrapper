@@ -1,5 +1,7 @@
 # ts_cl_wrapper
 
+## Intro: 
+A command line wrapper for ARIMA and Auto ARIMA Methods for Time Series Forecasting. 
 
 ### Auto ARIMA -- Command Line Usage 
 
